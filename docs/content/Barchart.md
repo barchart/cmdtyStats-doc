@@ -10,7 +10,7 @@
 ### Who is Barchart?
 Barchart is a global financial technology leader providing market data and services to the global financial, media, and commodity industries. Barchart connects to the equities, futures, options, indices and foreign exchange markets, news providers and other sources of data. For more information please visit https://www.barchart.com/solutions/company/about
 
-### What data does Baker Hughes offer via cmdtyStats?
+### What data does Barchart offer via cmdtyStats?
 |Agency                            | Dataset    | Area | Frequency | Start Date | Description |
 | :---------------------: | :----------: | :----------: | :----------: | :----------: | :----------: | 
 | [Barchart](https://www.barchart.com/cmdty/data/fundamental/explore/Barchart) | [Futures Activity](https://www.barchart.com/cmdty/data/fundamental/explore/Barchart/FUTACT) | Global | Daily | Jul 01, 1959 | Daily values of global futures volume and open interest in both nominal and notional terms. Notional values of futures volume and open interest allow for comparisons across exchange venues and investment vehicle. Easily compare the value traded between OTC products, ETFs, and futures. |
