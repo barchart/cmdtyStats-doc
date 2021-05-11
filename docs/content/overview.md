@@ -26,9 +26,6 @@ Commodity Statistics and Fundamental Data(cmdtyStats) is the leading source for 
 | [US Army Corps of Engineers](https://www.barchart.com/cmdty/data/fundamental/explore/USACE) |US|Ag| Weekly | Jan 04, 2003 | The USACE provides weekly information on the amount (in tons), location, and commodity of barged grain, along with the number, location, direction, and type of barges transiting the last lock on the Mississippi River and its tributaries. |[Docs & FAQs Coming Soon]|
 
 
-
-University of São Paulo	Daily, Weekly	Jan 01, 2000	The Hortifruti team dedicated to the economic aspects of the fruit and vegetable sectors. This team conducts market studies that identify problems and opportunities, proposes solutions that benefit not only the production of fruits and vegetables, but these chains as a whole, including the consumer.
-
 ## How Can I Access It?
 
 Users can generally access the content through either software or an enterprise data solution.  
