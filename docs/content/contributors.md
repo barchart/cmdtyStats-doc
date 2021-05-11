@@ -1,5 +1,5 @@
 # Contributors
-Here we provide an overview of each contributor we have in the CPN.  
+Here we provide an overview of each agency we have in the Commodity Statistics.
 
 ## ClipperData
 ClipperData is the leader in waterborne vessel tracking and load analysis.  Beginning with a database of global cargoes of crude oil and refined products, ClipperData’s market coverage has grown to include liquefied gases, lubricants, grains, container ships and petrochemicals. 
