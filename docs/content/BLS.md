@@ -31,7 +31,7 @@ The Consumer Price Index (CPI) data is updated on the day of release at 8:30 am 
 Yes, sample files can be made available via [contacting](https://www.barchart.com/cmdty/contact) the Barchart sales team.
 
 ### Where can I find collateral on how to understand this data?
-Barchart's [website](https://www.barchart.com/) provides information on methodology, coverage, and use cases to help better understand the data.
+Bureau of Labor Statistics' [website](https://www.bls.gov/) provides information on methodology, coverage, and use cases to help better understand the data.
 
 ### Is free trial available?
 Trials can be made available via [contacting](https://www.barchart.com/cmdty/contact) the Barchart sales team.
