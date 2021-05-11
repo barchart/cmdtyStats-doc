@@ -23,7 +23,7 @@ Barchart data can be accessed via
 * [File delivery](https://www.barchart.com/cmdty/contact) over FTP/SFTP
 
 ### What time the latest data is made available?
-The Baker hughes data is updated every weekday 7:00 am CST.
+The Barchart data is updated every weekday 7:00 am CST.
 
 ### Are sample files available?
 Yes, sample files can be made available via [contacting](https://www.barchart.com/cmdty/contact) the Barchart sales team.
