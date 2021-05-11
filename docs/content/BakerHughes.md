@@ -1,12 +1,9 @@
 ## Baker Hughes Data FAQ
 * Who is Baker Hughes?
 * What data does Baker Hughes offer via cmdtyStats?
-* What is the coverage?
 * How is the data delivered?
-* What is the frequency of the data?
 * What time the latest data is made available?
 * Are sample files available?
-* How far back historically does each dataset go?
 * Where can I find collateral on how to understand this data?
 * Is free trial available?
 
