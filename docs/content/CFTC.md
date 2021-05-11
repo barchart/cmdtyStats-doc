@@ -23,7 +23,7 @@ Commodity Futures Trading Commission data can be accessed via
 * [File delivery](https://www.barchart.com/cmdty/contact) over FTP/SFTP
 
 ### What time the latest data is made available?
-The Commitments of Traders data is updated every Friday at 15:15 pm CST.
+The Commitments of Traders data is updated every Friday at 15:00 pm CST.
 
 ### Are sample files available?
 Yes, sample files can be made available via [contacting](https://www.barchart.com/cmdty/contact) the Barchart sales team.
