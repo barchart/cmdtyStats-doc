@@ -10,7 +10,7 @@
 ### Who is Bureau of Economic Analysis?
 The Bureau of Economic Analysis (BEA) promotes a better understanding of the U.S. economy by providing the most timely, relevant, and accurate economic accounts data in an objective and cost-effective manner. For more information please visit https://www.bea.gov/about
 
-### What data does Barchart offer via cmdtyStats?
+### What data does Bureau of Economic Analysis offer via cmdtyStats?
 |Agency                            | Dataset    | Area | Frequency | Start Date | Description |
 | :---------------------: | :----------: | :----------: | :----------: | :----------: | :----------: | 
 | [Bureau of Economic Analysis](https://www.barchart.com/cmdty/data/fundamental/explore/BEA) | [Domestic Product and Income](https://www.barchart.com/cmdty/data/fundamental/explore/BEA/DPI) | United States | Quarterly, Annual | Dec 31, 1929 | The Bureau of Economic Analysis produces authoritative economic measures that enable government, business decision-makers, researchers, and the American public to follow and understand the performance of the nation's economy. This report includes information about the US GDP by nation, state and industry. |
@@ -30,7 +30,7 @@ The Domestic Product and Income data is updated last Thursday of every month at 
 Yes, sample files can be made available via [contacting](https://www.barchart.com/cmdty/contact) the Barchart sales team.
 
 ### Where can I find collateral on how to understand this data?
-Barchart's [website](https://www.barchart.com/) provides information on methodology, coverage, and use cases to help better understand the data.
+Bureau of Economic Analysis' [website](https://www.barchart.com/) provides information on methodology, coverage, and use cases to help better understand the data.
 
 ### Is free trial available?
 Trials can be made available via [contacting](https://www.barchart.com/cmdty/contact) the Barchart sales team.
