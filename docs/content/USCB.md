@@ -29,7 +29,7 @@ The New Residential Construction data is updated on day of report release at 8:1
 Yes, sample files can be made available via [contacting](https://www.barchart.com/cmdty/contact) the Barchart sales team.
 
 ### Where can I find collateral on how to understand this data?
-United States Census Bureau's [website](https://www.cftc.gov/) provides information on methodology, coverage, and use cases to help better understand the data.
+United States Census Bureau's [website](https://www.census.gov/) provides information on methodology, coverage, and use cases to help better understand the data.
 
 ### Is free trial available?
 Trials can be made available via [contacting](https://www.barchart.com/cmdty/contact) the Barchart sales team.
