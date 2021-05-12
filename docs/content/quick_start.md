@@ -11,7 +11,7 @@ Once we have an understanding of what you're looking to do our team will be able
 
 ## Making Your First Query
 
-As an example, let's retrieve quotes for the symbols you are interested in: 
+As an example, let's retrieve data for the symbols you are interested in: 
 * Open your favorite web browser
 * Enter you API key and symbols into the url template: https://ondemand.websol.barchart.com/getCmdtyStats.json?apikey=YOUR_API_KEY&symbol=USDA-SOYB-PROD-MS-96.CS&startDate=20200512&endDate=20210512&order=asc 
 * Copy and paste the url into the browser, and hit enter
