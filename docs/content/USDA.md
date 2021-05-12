@@ -1,0 +1,50 @@
+## United States Department of Agriculture Data FAQ
+* Who is United States Department of Agriculture?
+* What data does United States Department of Agriculture offer via cmdtyStats?
+* How is the data delivered?
+* What time the latest data is made available?
+* Are sample files available?
+* Where can I find collateral on how to understand this data?
+* Is free trial available?
+
+### Who is United States Department of Agriculture?
+The United States Department of Agriculture (USDA) is the federal executive department responsible for developing and executing federal laws related to farming, forestry, rural economic development, and food. For more information please visit https://www.usda.gov/our-agency/about-usda
+
+### What data does United States Department of Agriculture offer via cmdtyStats?
+|Agency                            | Dataset    | Area | Frequency | Start Date | Description |
+| :---------------------: | :----------: | :----------: | :----------: | :----------: | :----------: | 
+| [United States Department of Agriculture](https://www.barchart.com/cmdty/data/fundamental/explore/USDA) | [AMS Dairy Reports](https://www.barchart.com/cmdty/data/fundamental/explore/USDA/AMSDAIRY) | United States | Weekly, Monthly | Mar 03, 2012 | The USDA collects and releases sales information for products used in Federal Milk Marketing Order milk pricing formulas. These reports provide weekly sale prices for Butter, Cheddar Cheese, Dry Whey, and Nonfat Dry Milk. Also, the calculated monthly prices for class II, III, and IV dairy products. |
+| [United States Department of Agriculture](https://www.barchart.com/cmdty/data/fundamental/explore/USDA) | [AMS Ethanol Report](https://www.barchart.com/cmdty/data/fundamental/explore/USDA/AMSETHANOL) | United States | Daily, Weekly | Jan 04, 2000 | The USDA AMS releases daily and weekly wholesale prices for Distillers Dried, Modified Wet, and Wet grains covering major states and regions across the USA. |
+| [United States Department of Agriculture](https://www.barchart.com/cmdty/data/fundamental/explore/USDA) | [AMS Livestock](https://www.barchart.com/cmdty/data/fundamental/explore/USDA/USDALIVESTOCK) | United States | Daily | Jan 11, 2013 | The USDA AMS releases daily beef and pork cutout selling prices and quantities of all wholesale pork and beef sold by packers and cattle slaughtering firms. The cutout prices and quantities are further broken into primal and subprimal cuts. |
+| [United States Department of Agriculture](https://www.barchart.com/cmdty/data/fundamental/explore/USDA) | [AMS Poultry](https://www.barchart.com/cmdty/data/fundamental/explore/USDA/AMSPOULTRY) | United States | Daily, Weekly | Jan 03, 2000 | The USDA collects and releases sales information for products used in Federal Milk Marketing Order milk pricing formulas. These reports provide weekly sale prices for Butter, Cheddar Cheese, Dry Whey, and Nonfat Dry Milk. Also, the calculated monthly prices for class II, III, and IV dairy products. |
+| [United States Department of Agriculture](https://www.barchart.com/cmdty/data/fundamental/explore/USDA) | [AMS Speciality Crops](https://www.barchart.com/cmdty/data/fundamental/explore/USDA/AMSSPECIALITYCROPS) | North America | Daily | Jan 03, 2000 | The USDA AMS releases daily wholesale prices for speciality crops which include fruits, vegetables, Herbs and Nuts commodities covering major city terminals in USA, Canada and Mexico. The prices for speciality crops commodities are further differentiated by the commodities' growing origin, variety, size, package and grade. |
+| [United States Department of Agriculture](https://www.barchart.com/cmdty/data/fundamental/explore/USDA) | [Federal Grain Inspection Service](https://www.barchart.com/cmdty/data/fundamental/explore/USDA/FGIS) | United States | Weekly | Jan 06, 1983 | The Federal Grain Inspection Services' data includes historical volumes of U.S. grains inspected for export from major U.S. port regions and countries of destination. |
+| [United States Department of Agriculture](https://www.barchart.com/cmdty/data/fundamental/explore/USDA) | [Grain Transportation Report](https://www.barchart.com/cmdty/data/fundamental/explore/USDA/GRTRANS) | United States | Weekly, Quarterly | Jan 04, 1995 | The weekly Grain Transportation Report covers developments affecting the transport of grain, both in the domestic and international marketplace. This weekly publication reports on the latest volume and price data for barges, railroads, trucks, and ocean vessels involved in the transport of grain. |
+| [United States Department of Agriculture](https://www.barchart.com/cmdty/data/fundamental/explore/USDA) | [NASS Crops](https://www.barchart.com/cmdty/data/fundamental/explore/USDA/NASSCROP) | United States | Weekly, Monthly, Quarterly, Annual | Dec 31, 1866 | The USDA NASS provides a wide range of data and statistics for area harvested, yield, production, stocks, and prices for grains, livestocks, and vegetables produced in the US. |
+| [United States Department of Agriculture](https://www.barchart.com/cmdty/data/fundamental/explore/USDA) | [NASS Fruits and Tree Nuts](https://www.barchart.com/cmdty/data/fundamental/explore/USDA/NASSFRUIT) | United States | Weekly, Monthly, Annual | Dec 31, 1980 | The NASS Fruits and Tree Nuts reports provide estimates of crop acreage, condition, yield, production, price, value of production, and disposition of the crops produced across the United States. The datasets provide values for the major production states and US totals for each respective commodity. |
+| [United States Department of Agriculture](https://www.barchart.com/cmdty/data/fundamental/explore/USDA) | [NASS Proteins](https://www.barchart.com/cmdty/data/fundamental/explore/USDA/NASSPROT) | United States | Monthly, Quarterly, Annual | Dec 01, 1866 | The USDA NASS produces statistics on production of meat, nuts, dairy, commercial meat and livestock slaughter. Stock information on frozen red meat, nuts, dairy products and poultry in cold storage is also available. |
+| [United States Department of Agriculture](https://www.barchart.com/cmdty/data/fundamental/explore/USDA) | [NASS Vegetables](https://www.barchart.com/cmdty/data/fundamental/explore/USDA/NASSVEG) | United States | Weekly, Monthly, Annual | Jan 01, 1980 | The NASS Vegetable datasets provide acreage planted and harvested, yield production, disposition, utilization, price, and value for vegetable commodities produced in the United States. Data for each commodity is presented on a national basis and on a state basis for major production/processing states. |
+| [United States Department of Agriculture](https://www.barchart.com/cmdty/data/fundamental/explore/USDA) | [U.S. Export Sales](https://www.barchart.com/cmdty/data/fundamental/explore/USDA/USEXPRT) | United States | Weekly | Jan 07, 1999 | The United States Department of Agriculture (USDA), is the U.S. federal executive department responsible for developing and executing federal laws related to farming, forestry, and food. The report provides information on outstanding export sales and exports by country, region and marketing year for grains produced in the US. |
+| [United States Department of Agriculture](https://www.barchart.com/cmdty/data/fundamental/explore/USDA) | [WASDE](https://www.barchart.com/cmdty/data/fundamental/explore/USDA/WASDE) | Global | Monthly, Annual | Jan 01, 1961 | The World Agricultural Supply and Demand Estimates is a monthly report providing statistics on forecast of supply and demand for major crops and livestock. These datasets provide information on the production, consumption, imports, exports and inventory of grains and cotton. |
+| [United States Department of Agriculture](https://www.barchart.com/cmdty/data/fundamental/explore/USDA) | [World Markets and Trade](https://www.barchart.com/cmdty/data/fundamental/explore/USDA/FASWMT) | Global | Monthly | Aug 10, 2006 | THE FAS releases data on global, trade, production, consumption and stocks of world trade in grains and oilseeds. The report covers wheat, rice, coarse grains, oilseeds and products data. |
+
+
+
+### How is the data delivered?
+United States Department of Agriculture data can be accessed via
+* [cmdtyView](https://www.barchart.com/cmdty/trading/cmdtyview)
+* Excel via [cmdtyView Excel](https://www.barchart.com/cmdty/trading/cmdtyview-excel)
+* [Enterprise distribution](https://www.barchart.com/cmdty/contact) via [getCmdtyStats](https://www.barchart.com/ondemand/api/getCmdtyStats) and [getCmdtyCalendar](https://www.barchart.com/ondemand/api/getCmdtyCalendar) APIs
+* [File delivery](https://www.barchart.com/cmdty/contact) over FTP/SFTP
+
+### What time the latest data is made available?
+The United States Department of Agriculture data is updated on day of report release at 10:30 am CST.
+
+### Are sample files available?
+Yes, sample files can be made available via [contacting](https://www.barchart.com/cmdty/contact) the Barchart sales team.
+
+### Where can I find collateral on how to understand this data?
+United States Department of Agriculture's [website](https://www.cftc.gov/) provides information on methodology, coverage, and use cases to help better understand the data.
+
+### Is free trial available?
+Trials can be made available via [contacting](https://www.barchart.com/cmdty/contact) the Barchart sales team.
