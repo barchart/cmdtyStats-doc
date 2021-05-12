@@ -23,7 +23,7 @@ United States Census Bureau data can be accessed via
 * [File delivery](https://www.barchart.com/cmdty/contact) over FTP/SFTP
 
 ### What time the latest data is made available?
-The United States Census Bureau data is updated on day of report release at 10:30 am CST.
+The New Residential Construction data is updated on day of report release at 8:15 am CST. The New Residential Sales data is updated on day of report release at 9:45 am CST. The Construction Spending data is updated on day of report release at 9:45 am CST. The Manufacturing and Trade Inventories and Sales data is updated on day of report release at 10:00 am CST. The Manufacturers' Shipments, Inventories, and Orders data is updated on day of report release at 10:00 am CST. The Advance Report on Durable Goods Manufacturers' Shipments, Inventories, and Orders data is updated on day of report release at 8:10 am CST. The Monthly Wholesale Trade data is updated on day of report release at 10:30 am CST. The Advance Economic Indicators data is updated on day of report release at 8:30 am CST. The Advance Monthly Sales for Retail and Food Services data is updated on day of report release at 8:30 am CST.
 
 ### Are sample files available?
 Yes, sample files can be made available via [contacting](https://www.barchart.com/cmdty/contact) the Barchart sales team.
