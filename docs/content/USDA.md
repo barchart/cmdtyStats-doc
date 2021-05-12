@@ -29,7 +29,6 @@ The United States Department of Agriculture (USDA) is the federal executive depa
 | [United States Department of Agriculture](https://www.barchart.com/cmdty/data/fundamental/explore/USDA) | [World Markets and Trade](https://www.barchart.com/cmdty/data/fundamental/explore/USDA/FASWMT) | Global | Monthly | Aug 10, 2006 | THE FAS releases data on global, trade, production, consumption and stocks of world trade in grains and oilseeds. The report covers wheat, rice, coarse grains, oilseeds and products data. |
 
 
-
 ### How is the data delivered?
 United States Department of Agriculture data can be accessed via
 * [cmdtyView](https://www.barchart.com/cmdty/trading/cmdtyview)
@@ -38,13 +37,13 @@ United States Department of Agriculture data can be accessed via
 * [File delivery](https://www.barchart.com/cmdty/contact) over FTP/SFTP
 
 ### What time the latest data is made available?
-The United States Department of Agriculture data is updated on day of report release at 10:30 am CST.
+The Crop Progress report data is updated on every Monday at 16:00 pm CST. The WASDE report is updated on the day of release at 12:30 pm CST. The Crop Production report is updated on the day of release at 12:00 pm CST. The Export Sales report is updated every Thursday at 8:00 am CST. The Cattle on Feed report is updated on the day of release at 14:50 pm CST. The Grain Stocks report is updated on the day of release at 12:30 pm CST. The Livestock Slaughter report is updated second last Thursday at 15:00 pm CST. The Cold Storage report is updated on the day of release at 15:00 pm CST. The Hogs and Pigs report is updated on the last Thursday of release at 15:00 pm CST. The Fats and Oils report is updated on the first working day of each month at 15:00 pm CST. The Agricultural Prices report is updated on the last working day of each month at 15:00 pm CST. The Dairy Products report is updated on the first Friday of each month at 14:30 pm CST. Other reports are updated from source at 7:00 am CST.
 
 ### Are sample files available?
 Yes, sample files can be made available via [contacting](https://www.barchart.com/cmdty/contact) the Barchart sales team.
 
 ### Where can I find collateral on how to understand this data?
-United States Department of Agriculture's [website](https://www.cftc.gov/) provides information on methodology, coverage, and use cases to help better understand the data.
+United States Department of Agriculture's [website](https://www.usda.gov/) provides information on methodology, coverage, and use cases to help better understand the data.
 
 ### Is free trial available?
 Trials can be made available via [contacting](https://www.barchart.com/cmdty/contact) the Barchart sales team.
