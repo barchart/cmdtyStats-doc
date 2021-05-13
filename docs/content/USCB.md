@@ -8,7 +8,7 @@
 * Is free trial available?
 
 ### Who is United States Census Bureau?
-The United States Census Bureau (USCB) is the nation's leading provider of quality data about its people and economy. For more information please visit https://www.cftc.gov/About/index.htm
+The United States Census Bureau (USCB) is the nation's leading provider of quality data about its people and economy. For more information please visit https://www.census.gov/about.html
 
 ### What data does United States Census Bureau offer via cmdtyStats?
 |Agency                            | Dataset    | Area | Frequency | Start Date | Description |
