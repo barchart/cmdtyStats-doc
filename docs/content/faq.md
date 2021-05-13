@@ -1,18 +1,18 @@
 # FAQs
-This page contains information about our general FAQs as it relates to the CPN or how data can be retrieved. If you have an idea for something we should add to this section, let us know by sending an email to cmdty@barchart.com
+This page contains information about our general FAQs as it relates to the Commodity Statistics and Fundamental Data(cmdtyStats) or how data can be retrieved. If you have an idea for something we should add to this section, let us know by sending an email to cmdty@barchart.com
 
 For information more specific to any individual data contributor [please take a look here](/content/contributors)
 
 ## General Information
 
-#### What is cmdty Pricing Network?
-The cmdty Pricing Network (CPN) is the leading contributor network for global physical commodity prices. Our price contributors rely on Barchart to distribute their content through our network of end-users, and our end-users rely on Barchart to access all of the data they need to power their mission critial trading and risk systems.
+#### What is Commodity Statistics and Fundamental Data?
+The Commodity Statistics and Fundamental Data (cmdtyStats) is the source for economic data and commodity statistics – all made available in one easy to use API – and built into the cmdtyView® terminal. The cmdtyStats is the premier solution for fundamental commodity data, information, and statistics for Energy, Agricultural, Metals and Economical Statistics.
 
-#### Which companies are members of CPN?
-Various global Ag, Energy, Food and Freight companies are part of CPN. Please visit the [contributors section](/content/contributors) to see the current CPN members.
+#### Which commodities markets data is available via cmdtyStats?
+Various global Ag, Energy, Food, Metals and Economical data sources are integrated into cmdtyStats. We continously keep on integrating new data sources to expand our offerings. Please visit the [sources](/content/sources) to see the currently available sources.
 
-#### What does you coverage look like?
-All the datasets and reports available via CPN are listed [here](/content/contributors).
+#### What does your coverage look like?
+All the sources and reports available via cmdtyStats are listed [here](/content/sources).
 
 #### Who do I contact for support issues?
 Please email mds@barchart.com and a ticket will be automatically generated to track your request.
@@ -26,11 +26,11 @@ For more information, contact us directly at cmdty@barchart.com. We’d be happy
 Data can be accessed via
 * [cmdtyView](https://www.barchart.com/cmdty/trading/cmdtyview)
 * Excel via [cmdtyView Excel](https://www.barchart.com/cmdty/trading/cmdtyview-excel)
-* [Enterprise distribution](https://www.barchart.com/cmdty/contact) via API
+* [Enterprise distribution](https://www.barchart.com/cmdty/contact) via [getCmdtyStats](https://www.barchart.com/ondemand/api/getCmdtyStats) and [getCmdtyCalendar](https://www.barchart.com/ondemand/api/getCmdtyCalendar) APIs
 * [File delivery](https://www.barchart.com/cmdty/contact) over FTP/SFTP
 
 #### When is data updated?
-Data is updated from source everyday.
+Data is updated from source everyday. For more information please visit the FAQs for underlying sources(/content/sources).
 
 #### Can I access the historical data?
 Yes, historical data is made available when you subscribe to a dataset.
