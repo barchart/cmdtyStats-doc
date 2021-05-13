@@ -3,7 +3,7 @@ In this section we provide you with details of how you can interact with cmdtySt
 
 ## Get latest data in cmdtyView
 
-You can access all the CPN data in our platform [cmdtyView](https://www.barchart.com/cmdty/trading/cmdtyview) using your web browser or mobile. Access the latest quotes, historical data and create visualization to analyze trends and generate insights. 
+You can access all the cmdtyStats data in our platform [cmdtyView](https://www.barchart.com/cmdty/trading/cmdtyview) using your web browser or mobile. Access the latest quotes, historical data and create visualization to analyze trends and generate insights. 
 
 * **Get Started** - Go to our [website](https://www.barchart.com/cmdty/trading/cmdtyview), click on the "Get Started" button to connect with our team and get access to cmdtyView
 * **Creating Workspace** - Explore how to [create a fully-customizable Workspace](https://www.barchart.com/cmdty/video/cmdtyview-creating-workspace) within cmdtyView.
@@ -60,6 +60,7 @@ https://ondemand.websol.barchart.com/getCmdtyStatsId.json?apikey=YOUR_API_KEY&co
  
 }
 ```
+
 ### Get Historical Data
 Get the historical data using our [getCmdtyStats](https://www.barchart.com/ondemand/api/getCmdtyStats) API.
 
