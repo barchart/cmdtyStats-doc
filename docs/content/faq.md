@@ -1,7 +1,7 @@
 # FAQs
 This page contains information about our general FAQs as it relates to the Commodity Statistics and Fundamental Data (cmdtyStats) or how data can be retrieved. If you have an idea for something we should add to this section, let us know by sending an email to cmdty@barchart.com
 
-For information more specific to any individual data contributor [please take a look here](/content/contributors)
+For information more specific to any individual data source [please take a look here](/content/sources)
 
 ## General Information
 
@@ -33,7 +33,7 @@ Data can be accessed via
 Data is updated from source everyday. For more information please visit the FAQs for underlying sources(/content/sources).
 
 #### Can I access the historical data?
-Yes, historical data is made available when you subscribe to a dataset.
+Yes, historical data is made available when you subscribe to cmdtyStats.
 
 #### Do you have sample files available?
 Yes, sample files can be made available via [contacting](https://www.barchart.com/cmdty/contact) the Barchart sales team.
