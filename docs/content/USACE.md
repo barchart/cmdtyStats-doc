@@ -8,7 +8,7 @@
 * Is free trial available?
 
 ### Who is US Army Corps of Engineers?
-The United States Census Bureau (USCB) is the nation's leading provider of quality data about its people and economy. For more information please visit https://www.cftc.gov/About/index.htm
+The USACE provides weekly information on the amount (in tons), location, and commodity of barged grain, along with the number, location, direction, and type of barges transiting the last lock on the Mississippi River and its tributaries. For more information please visit [https://corpslocks.usace.army.mil](https://corpslocks.usace.army.mil/lpwb/f?p=121:13:3466100390430::NO:::)
 
 ### What data does US Army Corps of Engineers offer via cmdtyStats?
 |Agency                            | Dataset    | Area | Frequency | Start Date | Description |
