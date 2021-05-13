@@ -20,7 +20,7 @@ If Excel is your go to tool for analysis, we have got you covered. Get the data 
 
 ## Enterprise Solutions
 
-Get the commodity prices you need, when you need it - and delivered today. Our APIs for commodity data are fast, flexible, and available OnDemand.
+Get the commodity data you need, when you need it - and delivered today. Our APIs for commodity data are fast, flexible, and available OnDemand.
 
 ### Get cmdtyStats ID
 Search for data series based on search parameters covering content, source, area, frequency, and more using our [getCmdtyStatsId](https://www.barchart.com/ondemand/api/getCmdtyStatsId) API.
