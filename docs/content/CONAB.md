@@ -11,7 +11,7 @@
 * Is free trial available?
 
 ### Who is CONAB?
-Companhia Nacional de Abastecimento (Conab) is a public company headquartered in Brasília, linked to the Ministry of Agriculture, Livestock and Supply (Mapa). The Company was created through Law no. 8,029, of April 12, 1990 , which authorized the merger of three public companies: the Production Financing Company (CFP), the Brazilian Food Company (Cobal) and the Brazilian Storage Company (Cibrazem). Its activities started on January 1, 1991, with 100% capital from the National Treasury.
+Companhia Nacional de Abastecimento (Conab) is a public company headquartered in Brasília, linked to the Ministry of Agriculture, Livestock and Supply (Mapa). The Company was created through Law no. 8,029, of April 12, 1990 , which authorized the merger of three public companies: the Production Financing Company (CFP), the Brazilian Food Company (Cobal) and the Brazilian Storage Company (Cibrazem). Its activities started on January 1, 1991, with 100% capital from the National Treasury. For more information, please see https://www.conab.gov.br/institucional
 
 ### What data does CONAB offer via cmdtyStats?
 |Agency                            | Area | Frequency | Start Date | Description |
