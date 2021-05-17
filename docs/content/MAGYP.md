@@ -1,4 +1,4 @@
-## Central Market of Buenos Aires Data FAQ
+## Ministry of Agriculture, Livestock and Fisheries Data FAQ
 * Who is MAGYP?
 * What data does MAGYP offer via cmdtyStats?
 * What is the coverage?
