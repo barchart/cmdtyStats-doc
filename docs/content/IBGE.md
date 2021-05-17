@@ -1,4 +1,4 @@
-## Baker Hughes Data FAQ
+## Brazilian Institute of Geography and Statistics Data FAQ
 * Who is IBGE?
 * What data does IBGE offer via cmdtyStats?
 * What is the coverage?
