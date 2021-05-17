@@ -22,7 +22,7 @@ The Central Market of Buenos Aires is the fruit and vegetable trading center tha
 MCDBA data covers 12000+ data of seafood, fruits and vegetables traded in the Central Market of Buenos Aires from 2016. Food price with the information of process and container are also provided.
 
 ### How is the data delivered?
-Mintec data can be accessed via
+MCDBA data can be accessed via
 * [cmdtyView](https://www.barchart.com/cmdty/trading/cmdtyview)
 * Excel via [cmdtyView Excel](https://www.barchart.com/cmdty/trading/cmdtyview-excel)
 * [Enterprise distribution](https://www.barchart.com/cmdty/contact) via API

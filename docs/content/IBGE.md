@@ -22,7 +22,7 @@ The Brazilian Institute of Geography and Statistics - IBGE is the main provider 
 IBGE data covers 6700+ agricultural data across Brazil country, state, and geographic microregion. To be specific, the planted acreage, harvested acreage, yield, and production data of soybean, corn, wheat and sugarcane is provided.
 
 ### How is the data delivered?
-Mintec data can be accessed via
+IBGE data can be accessed via
 * [cmdtyView](https://www.barchart.com/cmdty/trading/cmdtyview)
 * Excel via [cmdtyView Excel](https://www.barchart.com/cmdty/trading/cmdtyview-excel)
 * [Enterprise distribution](https://www.barchart.com/cmdty/contact) via API
